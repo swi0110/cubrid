@@ -9,3 +9,4 @@
 [submodule "cubrid-cci"]
 	path = cubrid-cci
 	url = https://github.com/hwany7seo/cubrid-cci
+	branch = CBRD-23914
