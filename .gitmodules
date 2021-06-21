@@ -6,3 +6,6 @@
 	path = cubrid-jdbc
 	url = https://github.com/cubrid/cubrid-jdbc
 	branch = develop
+[submodule "cubrid-cci"]
+	path = cubrid-cci
+	url = https://github.com/hwany7seo/cubrid-cci
